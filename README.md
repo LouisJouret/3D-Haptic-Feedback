@@ -16,7 +16,7 @@ To provide an adecuate haptic feedback the device needs to be controlled accurat
 ![Control](https://user-images.githubusercontent.com/30259634/156409330-47fb1005-9375-4199-a081-af58e2f8fa2d.png)
 
 ## State of the protype and stabilization test
-Bellow it can be found videos of the last stabilizing test:
+Bellow are two videos of the first stabilization tests :
 
 https://user-images.githubusercontent.com/30259634/156215392-c507a673-42e5-492a-a674-068f0fa65a87.mp4
 
